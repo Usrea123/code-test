@@ -1,0 +1,6 @@
+1. sau khi cai git, kiem tra phien ban = cach git --version
+2. sau do nhap ten va email nguoi dung :
+	git config --global user.name "Tai Nguyen"
+	git config --global user.email "..."
+3. sau do nx kiem tra xem thong tin cua minh 
+	git config --list
