@@ -4,3 +4,5 @@
 	git config --global user.email "..."
 3. sau do nx kiem tra xem thong tin cua minh 
 	git config --list
+
+Dong nay moi them
