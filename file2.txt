@@ -1,2 +1,7 @@
 day la file 3
+<<<<<<< HEAD
 day la dong moi cua dat
+=======
+
+day la dong cua tai
+>>>>>>> fdd1c66b5b83d68ad9f2e8105e7898cfba24e1a5
